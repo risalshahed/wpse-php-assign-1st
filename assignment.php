@@ -23,11 +23,11 @@
         animation-duration: 4s;
       }
       @keyframes example {
-        0%   {background-color:#eee; left:-100px; top:0px;}
-        25%  {background-color:#ddd; left:100px; top:0px;}
-        50%  {background-color:#ccc; left:100px; top:200px;}
-        75%  {background-color:#bbb; left:0px; top:200px;}
-        100% {background-color:#aaa; left:0px; top:0px;}
+        0%   {background-color:#eee; top:0vh;}
+        25%  {background-color:#ddd; top:15vh;}
+        50%  {background-color:#ccc; top:30vh;}
+        75%  {background-color:#bbb; top:45vh;}
+        100% {background-color:#aaa; top:60vh;}
       }
     </style>
   </head>
